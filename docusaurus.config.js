@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'This site contains all legislation for Daxrentha\'s SCPF',
   url: 'https://legislation.scpf.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'SCPF-Judicial', // Usually your GitHub org/user name.
@@ -22,8 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/main/',
           routeBasePath: '/'
         },
         theme: {
@@ -64,7 +63,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Legislation',
-                to: '/docs',
+                to: '/',
               },
             ],
           },
