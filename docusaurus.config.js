@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/main/',
+          editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/dev/',
           routeBasePath: '/'
         },
         theme: {
