@@ -3,4 +3,10 @@ tasks:
     command: yarn run start
 ports:
   - port: 3000
+<<<<<<< HEAD
     onOpen: open-preview
+=======
+    onOpen: open-preview
+extensions:
+  - yzhang.markdown-all-in-one
+>>>>>>> 39291e9362476746d103a19b4d7e1fbbaccfc0cb
