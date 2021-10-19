@@ -9,7 +9,7 @@ title: Introduction & General Information
 
 :::info
 
- - You must be at the rank of ***Security Class-1*** or above in order to apply
+ - You must be at the rank of **Security Class-1** or above in order to apply
  - The Logistics Department is a **minor department** meaning you will be permitted to join this and another minor or major department
  - Contact **Senior Logistics Officers** or above for further inquiries
 
