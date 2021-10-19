@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
 title: Introduction
+sidebar_position: 1
 ---
 
 The Security Department is the first line of defense of the Foundation, it acts as the primary shield for the SCP Foundation’s activities. Members of the Security Department are entrusted to preserve all Foundation employees, assets, and facilities along with containing riots and hostile raids. The Security Department frequently works alongside other combative departments such as the Mobile Task Forces to maintain Pathos III’s security, by defending the Installation and seeking to rid hostile forces away from Pathos III.
