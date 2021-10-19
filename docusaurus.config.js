@@ -45,9 +45,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'supreme/intro',
             position: 'left',
-            label: 'Legislation',
+            label: 'Supreme Guidelines',
+          },
+          {
+            type: 'doc',
+            docId: 'departments/intro',
+            position: 'left',
+            label: 'Departmental Guidelines',
           },
           {
             href: 'https://www.roblox.com/groups/4606577',
