@@ -1,0 +1,31 @@
+# Fallback all remaining to MaD
+* @SCPF-Judicial/manufacturing
+
+# Fallback documentation to the council
+/docs/departments/ @SCPF-Judicial/o5-council
+
+# Supreme guidelines to judicial
+/docs/hostage_regulations/ @SCPF-Judicial/judicial
+/docs/red_heron_regulations/ @SCPF-Judicial/judicial
+/docs/supreme/ @SCPF-Judicial/judicial
+
+# Raid regulations to DDA
+/docs/raid_regulations/ @SCPF-Judicial/department-of-diplomatic-affairs
+
+# Engineering
+/docs/department/ents_department/ @SCPF-Judicial/engineering-technical-services
+
+# Logistics
+/docs/department/logistics_department/ @SCPF-Judicial/logistics-department
+
+# Medical
+/docs/department/medical_department/ @SCPF-Judicial/medical-department
+
+# Mobile Task Forces
+/docs/department/mtf_department/ @SCPF-Judicial/mobile-task-forces
+
+# Scientific
+/docs/department/scientific_department/ @SCPF-Judicial/scientific-department
+
+# Security
+/docs/department/security_department/ @SCPF-Judicial/security-department
