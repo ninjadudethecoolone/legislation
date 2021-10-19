@@ -1,6 +1,6 @@
 ---
 title: Chain of Command
-sidebar_position: 2
+sidebar_position: 3
 ---
 export const Highlight = ({children, color}) => (
   <span
