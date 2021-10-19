@@ -1,9 +1,11 @@
 ---
 title: Punishment System
-sidebar_position: 8
+sidebar_position: 10
 ---
 
+:::info
 The Medical Department has access to many areas, items, and anomalies due to its nature of work. The Punishment System is made to punish those who break the rules of the Medical Department as there must be standards regarding what we do.
+:::
 
 ### <ins>LEVEL ONE</ins>
 Level one punishments are considered minor offenses and usually can warrant Verbal Warnings or Written Warnings. Actions from the individual that would warrant a level one is:

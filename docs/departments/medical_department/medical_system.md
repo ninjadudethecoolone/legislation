@@ -1,6 +1,6 @@
 ---
 title: Medical System
-sidebar_position: 6
+sidebar_position: 8
 ---
 The Medical Department is at the forefront of the health of Foundation Employees. Due to this, they are given important tools that help in their duties. These tools are the following:
 

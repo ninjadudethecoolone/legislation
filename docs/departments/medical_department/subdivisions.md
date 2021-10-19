@@ -1,6 +1,6 @@
 ---
 title: Medical Department Subdivisions
-sidebar_position: 9
+sidebar_position: 7
 ---
 export const Highlight = ({children, color}) => (
   <span

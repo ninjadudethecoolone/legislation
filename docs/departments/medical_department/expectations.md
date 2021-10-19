@@ -1,9 +1,11 @@
 ---
 title: Expectations
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-As a member of the Medical Department, a few requirements are requested for your career to be successful.
+:::info 
+As a member of the Medical Department, a few requirements are requested for your career to be successful:
+:::
 
 - Proper grammar and spelling are required while onsite performing your duties.
 - It is mandatory to be in your designated uniform while on the team.
