@@ -4,6 +4,8 @@ title: 1. - Statutory Powers
 ---
 Various bodies under the auspices of Foundation Command are entrusted with Statutory Powers to aid in the prevention of crime, institution of subsequent punitive action where necessary and executing judicial action in a fair, non-bias way. A multitude of limitations and balances must be impsoed to ensure all individuals detained, prosecuted or punished by any component of the Foundations legislative authourities are treated in an impartial and dignifying manner.
 
+---
+
 ### 1.1. - Authorities
 
 The Foundations authority is drawn from a multitude of differing **authorities** which finalize judicial systems, prosecute individuals for varying offenses or participate in their initial apprehension. To prevent bias or complication, all authorities remain seperate from one another.
@@ -30,4 +32,10 @@ Only entities listed under the Statutory Powers Article are capable of imposing 
 
 Further limitations of Statutory Authorities is defined in subordinate articles and criminal articles.
 
-### 1.2.
+---
+
+### 1.2. Special Powers
+
+To aid in the detainment and prosecution of offenders, a multitude of specialist powers exist with the intent of restricting the access, movement or ability for an individual to impede Foundation Operations or further an offense, especially when sensitive evidence may be corrupted if such measures are not taken.
+
+> Personnel may excersise these powers in accordance with legislation however failiure to force to a direct Use of Force Contium and remaining respectful of an individuals rights subjects persons to prosecution.
