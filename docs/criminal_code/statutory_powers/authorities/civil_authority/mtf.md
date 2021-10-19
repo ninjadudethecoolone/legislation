@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: 1.1.3.4. - Mobile Task Forces
+title: 1.1.3.4 - Mobile Task Forces
 ---
 The Mobile Task Forces express absolute jurdistiction over Site Epsilon and the Cleanrooms, with a tertiary authority over Reactor Operations alongside other static security forces. MTF Operatives have differing authority dependent upon their Task Force, primarily dictated over by their internal regulation.
 

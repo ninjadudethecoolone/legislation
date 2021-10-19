@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 1.1.1.1. - Overseer Council
+title: 1.1.1.1 - Overseer Council
 ---
 The O5 Council is the **Supreme Authority** within the Foundation and acts as the supreme court of law for all legal decision. Councillors and at their discretion Executive Assistants may chose to allow an appeal to be heard by the Council if the verdict reached by Overwatch Command or any other judicial authority is viewed as unrealistic, bias or poorly prescribed in relation to the offense.
 

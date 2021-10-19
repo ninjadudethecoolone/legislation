@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-title: 1. - Statutory Powers
+sidebar_position: 1
+title: Statutory Powers
 ---
 Various bodies under the auspices of Foundation Command are entrusted with Statutory Powers to aid in the prevention of crime, institution of subsequent punitive action where necessary and executing judicial action in a fair, non-bias way. A multitude of limitations and balances must be impsoed to ensure all individuals detained, prosecuted or punished by any component of the Foundations legislative authourities are treated in an impartial and dignifying manner.
 
