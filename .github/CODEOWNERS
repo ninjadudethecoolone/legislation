@@ -1,8 +1,8 @@
-# Fallback all remaining to MaD
+# Fallback remaining to MaD
 * @SCPF-Judicial/manufacturing
 
 # Fallback documentation to the council
-/docs/ @SCPF-Judicial/o5-council
+# /docs/ @SCPF-Judicial/o5-council
 
 # Supreme guidelines to judicial
 /docs/hostage_regulations/ @SCPF-Judicial/judicial
