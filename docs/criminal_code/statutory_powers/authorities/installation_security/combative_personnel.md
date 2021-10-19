@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: 1.1.4.2. - Combative Personnel
+title: 1.1.4.2 - Combative Personnel
 ---
 Combative Personnel are hereby defined as any member of the Security Department or Mobile Task Forces.
 
