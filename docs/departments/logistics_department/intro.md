@@ -7,6 +7,4 @@ title: Introduction & General Information
  :::info
  - You are given the ability to apply for the Logistics Department from the rank of ***Security Class-1*** or above.
  - The Logistics Department is a **minor department** meaning you will be permitted to join this and another minor or major department
-
-
  :::
