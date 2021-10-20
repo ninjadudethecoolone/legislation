@@ -1,6 +1,6 @@
 ---
 title: Clean Room Regulations
-sidebar_position: 3
+sidebar_position: 4
 ---
 The Clean Room is located within the Scientific Department Wing. All Medical Department Personnel (Besides Medical Students) are allowed within the Clean Room to receive SCPs for Medical and Testing (Psychology) Purposes. There are some regulations YOU MUST FOLLOW. These are listed below:
 
