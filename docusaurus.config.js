@@ -56,6 +56,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Departmental Guidelines',
           },
           {
+            type: 'doc',
+            docId: 'criminal_code/intro',
+            position: 'left',
+            label: 'Criminal Code',
+          },
+          {
             href: 'https://www.roblox.com/groups/4606577',
             label: 'Group',
             position: 'right',
