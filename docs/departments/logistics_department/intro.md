@@ -12,6 +12,9 @@ The Logistics Department handles the transportation of materials fundamental to 
  - You must be at the rank of **Security Class-1** or above in order to apply
  - The Logistics Department is a **minor department** meaning you will be permitted to join this and another minor or major department
  - Contact **Senior Logistics Officers** or above for further inquiries
+ - Group links:
+  [Logistics Department](https://www.roblox.com/groups/7793808/SCPF-Logistics-Department#!/about)
+  [Department of Transportation](https://www.roblox.com/groups/12604443/SCPF-LD-Department-of-Transportation#!/about)
 
 
 :::
