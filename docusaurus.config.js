@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'legislation.scpf.io',
-  tagline: 'This site contains all legislation for Daxrentha\'s SCPF',
+  title: 'Daxrentha\'s SCPF documentation',
+  tagline: 'This site contains all public documentation for Daxrentha\'s SCPF',
   url: 'https://legislation.scpf.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -35,32 +35,35 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      defaultMode: 'dark',
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: true
+      },
       navbar: {
         title: 'SCPF',
         logo: {
-          alt: 'SCPF Judicial Logo',
-          src: 'img/judicial.png',
+          alt: 'SCPF Logo',
+          src: 'img/scpf.png',
         },
         items: [
-          {
+          /* {
             type: 'doc',
             docId: 'supreme/intro',
             position: 'left',
             label: 'Supreme Guidelines',
-          },
+          }, */
           {
             type: 'doc',
             docId: 'departments/intro',
             position: 'left',
             label: 'Departmental Guidelines',
           },
-          {
+          /* {
             type: 'doc',
             docId: 'criminal_code/intro',
             position: 'left',
             label: 'Criminal Code',
-          },
+          }, */
           {
             href: 'https://www.roblox.com/groups/4606577',
             label: 'Group',
