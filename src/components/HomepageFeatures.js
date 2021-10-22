@@ -4,17 +4,17 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Supreme Guidelines',
-    img: '../../static/img/judicial.png',
+    title: <>Supreme Guidelines <span class="badge badge--info">Coming soon</span></>,
+    img: '/img/judicial.png',
     description: (
       <>
-        <i>(Coming soon)</i> View the Foundation's supreme guidelines.
+        View the Foundation's supreme guidelines.
       </>
     ),
   },
   {
     title: 'Departmental Guidelines',
-    img: '../../static/img/scpf.png',
+    img: '/img/scpf.png',
     description: (
       <>
         All public departmental guidelines are available to view here.
@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Criminal Code',
-    img: '../../static/img/judicial.png',
+    title: <>Criminal Code <span class="badge badge--info">Coming soon</span></>,
+    img: '/img/judicial.png',
     description: (
       <>
-        <i>(Coming soon)</i> View the Foundation's criminal code.
+        View the Foundation's criminal code.
       </>
     ),
   },
@@ -35,8 +35,8 @@ const FeatureList = [
 function Feature({img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <img src={img} alt={title} />
+      <div className="text--center" >
+      <img src={img} alt={title} className={styles.featureSvg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
