@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 title: Welcome
-slug: /
 id: intro
 ---
 
@@ -13,4 +12,8 @@ If you hold a Security Class, it is mandatory that you acknowledge the stricture
 
 To reiterate, you may only circumvent our policies and regulations with explicit permission from one of the listed parties above. Any violation of this document otherwise can result in punishment at the discretion of the Ethics Committee.
 
+:::info
+
 This document will be updated periodically to be kept up-to-date with new information or regulations regarding the Foundation. This document is managed by the Overwatch Command and the Ethics Committee Central Command team.
+
+:::

@@ -5,9 +5,10 @@
 /docs/ @SCPF-Judicial/o5-council
 
 # Supreme guidelines to judicial
+/docs/criminal_code/ @SCPF-Judicial/judicial @SCPF-Judicial/o5-council
+/docs/supreme/ @SCPF-Judicial/judicial @SCPF-Judicial/o5-council
 /docs/hostage_regulations/ @SCPF-Judicial/judicial
 /docs/red_heron_regulations/ @SCPF-Judicial/judicial
-/docs/supreme/ @SCPF-Judicial/judicial
 
 # Raid regulations to DDA
 /docs/raid_regulations/ @SCPF-Judicial/department-of-diplomatic-affairs
