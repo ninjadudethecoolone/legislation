@@ -24,7 +24,7 @@ Crimson-9 Agents have supreme authority over any area occupied by roaming entiti
 
 ---
 
-> _Field Cadets have **no** statutory authority outside of that defined in [Article 1.1.4.2.](tertiary_authority/combative_personnel.md)_
+> _Field Cadets have **no** statutory authority outside of that defined in [Article 1.1.4.2.](criminal_code\statutory_powers\authorities\civil_authority\mtf.md)_
 
 > _Captains and Field Chiefs have the authority of all Mobile Task Forces combined._
 
