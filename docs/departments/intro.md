@@ -5,6 +5,9 @@ slug: /departments
 id: intro
 ---
 
-## Departmental Information
+This section contains all public departmental guidelines for the foundation. Please see:
 
-Insert TOC here
+- [Security Guidelines](departments/security_department/intro)
+- [Medical Guidelines](departments/medical_department/intro)
+- [Logistics Guidelines](departments/logistics_department/intro)
+- [Mobile Task Forces Guidelines](departments/mtf_department/intro)
