@@ -119,7 +119,7 @@ module.exports = {
           },  
         ]
       },
-      {
+      /* {
         type: 'category',
         label: 'Scientific Department',
         items: [
@@ -128,7 +128,7 @@ module.exports = {
             dirName: 'departments/scientific_department',
           },  
         ]
-      },
+      }, */
       {
         type: 'category',
         label: 'Logistics Department',
@@ -139,7 +139,7 @@ module.exports = {
           },  
         ]
       },
-      {
+      /* {
         type: 'category',
         label: 'Engineering & Technical Services',
         items: [
@@ -148,7 +148,7 @@ module.exports = {
             dirName: 'departments/ents_department',
           },  
         ]
-      },
+      }, */
       {
         type: 'category',
         label: 'Mobile Task Forces',
