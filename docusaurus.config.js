@@ -25,6 +25,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/dev/',
           routeBasePath: '/'
         },
+        blog: {
+          path: 'blog',
+          editUrl: ({locale, blogDirPath, blogPath}) => {
+            return `https://github.com/SCPF-judicial/legislation/edit/master/${blogDirPath}/${blogPath}`;
+          },
+          postsPerPage: 5,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Daxrentha's Special Containment Procedures Foundation`,
+          },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All our posts',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -58,6 +71,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Departmental Guidelines',
           },
+          {to: 'blog', label: 'Blog', position: 'left'},
           /* {
             type: 'doc',
             docId: 'criminal_code/intro',
