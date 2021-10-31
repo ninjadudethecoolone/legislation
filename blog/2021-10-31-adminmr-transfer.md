@@ -32,3 +32,7 @@ Ensure you send a join request to the group:
 ## Ethics, External Affairs, Mobile Task Forces & Specialized Response Unit
 
 Please fill out [this form](https://forms.gle/fTzZnfkGb97y59QU6). You will be contacted by either the Director or Overseer of the department you would like to transfer to within the coming days.
+
+## Manufacturing
+
+If you are a developer **currently within Administrator_Mr's Foundation** then please contact unix#1784 for an interview, if you wish to join our MaD.
