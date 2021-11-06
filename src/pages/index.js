@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import Servers from '../components/Servers';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -20,7 +21,7 @@ function HomepageHeader() {
               Departmental Guidelines
             </Link>
           </div>
-          </div>
+        </div>
       </header>
   );
 }
@@ -34,7 +35,11 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        
       </main>
+      <article>
+        <Servers/>
+      </article>
     </Layout>
   );
 }
