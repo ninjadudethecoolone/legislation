@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <center>Field Cadet | Cap: N/A | Low Command </center><br />
 
-Field Cadets consist of the newest personnel of the Mobile Task Forces, and have proven themselves worthy of a position through tryouts. Field Cadets main duty is to patrol Omicron/Epsilon to look for any threats, and to actively assist SD when necessary. Field Cadets can also request to follow a Task Force Specialist+ if they’d like to assist in their duties. <br />
+Field Cadets consist of the newest personnel of the Mobile Task Forces, and have proven themselves worthy of a position through tryouts. Field Cadets main duty is to patrol Epsilon to look for any threats, and to actively assist SD when necessary. Field Cadets can also request to follow a Task Force Specialist+ if they’d like to assist in their duties. <br />
 Requirements:
 
 - Pass tryouts when hosted.
