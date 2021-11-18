@@ -35,7 +35,7 @@ The Medical Department is at the forefront of the health of Foundation Employees
 | <Highlight color="007dc4"> Anything Limb</Highlight>         | Bandage         |
 | <Highlight color="FA8072"> Downed Torso</Highlight>          | Defibrillator   |
 | <Highlight color="FA8072"> Non-Downed Torso</Highlight>      | Bandage         |
-| <Highlight color="FA8072"> Head</Highlight>                  | Head            |
+| <Highlight color="FA8072"> Head</Highlight>                  | Bandages        |
 
 ### <strong>The Field Bandage is used to heal yourself, and not others.</strong>
 

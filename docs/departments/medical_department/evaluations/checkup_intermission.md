@@ -12,7 +12,6 @@ The Class-D Containment Zone undergoes a scheduling system. There is an activity
     - There should be only one question asked, “Do you have any medically related issue to report?”
     - You will then scan the Class-D to look for any injuries.
 - You are to not converse with Class-D personnel unless you are asking them questions or telling them something related to it.
-- You are to not converse with Class-D personnel unless you are asking them questions or telling them something related to it.
 - Personnel are prohibited to loiter outside of the designated time frame, harsh punishment will be given if you disobey Security Personnel instructions.
 - You are to remain by your Security escort at all times, deserting away from your escort or running from him is forbidden.
 - You are to abide by the Supreme Guidelines and departmental regulations at all times. You are not to shoot at Class-D personnel or run away and get taken hostage.

@@ -14,7 +14,7 @@ https://discord.gg/pathos
 
 If you are a Level-0 please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Security Class-0.
 
-If you are a Level-1 or Level 2 please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Security Class-1.
+If you are a Level-1 or above please head to the [Application Centre](https://www.roblox.com/games/4571894336/Application-Center) to claim Security Class-1.
 
 ## Scientific, Security, Medical and Engineering
 
