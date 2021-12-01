@@ -62,12 +62,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: 'img/scpf.png',
         },
         items: [
-          /* {
+          {
             type: 'doc',
-            docId: 'supreme/intro',
+            docId: 'supreme/introduction',
             position: 'left',
             label: 'Supreme Guidelines',
-          }, */
+          },
           {
             type: 'doc',
             docId: 'departments/intro',

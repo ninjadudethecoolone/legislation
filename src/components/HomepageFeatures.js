@@ -4,17 +4,17 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: <>Supreme Guidelines <span class="badge badge--info">Coming soon</span></>,
-    img: '/img/judicial.png',
+    title: 'Supreme Guidelines',
+    img: '/img/scpf.png',
     description: (
       <>
-        View the Foundation's supreme guidelines.
+        View the Foundation's Supreme Guidelines.
       </>
     ),
   },
   {
     title: 'Departmental Guidelines',
-    img: '/img/scpf.png',
+    img: '/img/department.png',
     description: (
       <>
         All public departmental guidelines are available to view here.
@@ -26,7 +26,7 @@ const FeatureList = [
     img: '/img/judicial.png',
     description: (
       <>
-        View the Foundation's criminal code.
+        View the Foundation's Criminal Code.
       </>
     ),
   },
