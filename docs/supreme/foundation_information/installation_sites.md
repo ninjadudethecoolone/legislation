@@ -19,17 +19,15 @@ The Foundation’s main base of operations is within Pathos-III, which is a faci
 
 :::note
 **(E)** = Escort required.
+
 **(S)** = Only when spectating.
 :::
 
 ## <Highlight color="#bf9000">Site Phi</Highlight>
 Site Phi contains most of the civil department spawn areas.
-This area also contains the Control Room, Breach Shelter, and Cafeteria.
-:::note
-The Scientific and Technical Wings are considered to be a part of Site Phi.
-:::
+This area also contains the Control Room, Breach Shelter, and Cafeteria. The Scientific and Technical Wings are considered to be an extension of Site Phi.
 :::info
-The following are granted access to this area:
+The following personnel are granted access to this area:
 - Security Class 0,
 - Security Class 1,
 - Security Class 2,
@@ -42,7 +40,7 @@ The following are granted access to this area:
 ## <Highlight color="#e69138">Site Omicron</Highlight>
 Site Omicron is mostly a cell house for Class-D personnel. Class-D personnel often participate in experimentation conducted by the Scientific or Medical Department. 
 :::info
-The following are granted access to this area:
+The following personnel are granted access to this area:
 - Security Class 0,
 - Security Class 1,
 - Security Class 2,
@@ -55,7 +53,7 @@ The following are granted access to this area:
 ## <Highlight color="#674ea7">Installation Command</Highlight>
 Installation Command houses administrative and logistical personnel. Hostile organizations will begin their raids and negotiations will be conducted by the Department of Diplomatic Affairs in this area.
 :::info
-The following are granted access to this area:
+The following personnel are granted access to this area:
 - Security Class 0,
 - Security Class 1,
 - Security Class 2,
@@ -63,13 +61,6 @@ The following are granted access to this area:
 - Security Class 4,
 - Installation Director,
 - O5 Council.
-
-- Security Department,
-- Mobile Task Forces,
-- Ethics Committee,
-- Department of Diplomatic Affairs,
-- Logistics Department,
-- Manufacturing Department,
 :::
 
 ## <Highlight color="#5b0f00">Clean Room</Highlight>
@@ -83,7 +74,9 @@ The following are granted access to this area:
 - Security Class 4,
 - Installation Director,
 - O5 Council.
-
+:::
+:::info
+The following departments are granted access to this area:
 - Security Department,
 - Mobile Task Forces,
 - Engineering & Technical Services **(E)**,
@@ -95,16 +88,18 @@ The following are granted access to this area:
 Site Epsilon is the containment area for most anomalies, more hazardous anomalies tend to be housed here.
 :::info
 The following are granted access to this area:
+- Security Class 0 **(S)**,
 - Security Class 1 **(S)**,
 - Security Class 2 **(S)**,
 - Security Class 3 **(E)**,
 - Security Class 4,
 - Installation Director,
 - O5 Council.
-
+:::
+:::info
+The following departments are granted access to this area:
 - Security Department,
 - Mobile Task Forces,
-- Security Department **(E)**,
 - Engineering & Technical Services **(E)**,
 - Scientific Department **(E)**,
 - Ethics Committee **(E)**.

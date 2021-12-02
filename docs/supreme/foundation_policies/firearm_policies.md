@@ -4,10 +4,7 @@ title: Firearm Policies
 ---
 
 :::info
-All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee.
-:::
-:::note
-Combative & Intelligence personnel are exempt from these regulations, but must conform to their department’s rules of engagement and firearm regulations.
+All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee. Combative & Intelligence personnel are exempt from these regulations, but must conform to their department’s rules of engagement and firearm regulations.
 :::
 
 ## Article 1 - General Policies
@@ -23,7 +20,7 @@ Combative & Intelligence personnel are exempt from these regulations, but must c
  3. Personnel may not utilize their weapons against any Security Class 4 or higher for any reason.
  4. Should you ever have to use your weapon in an act of self-defense against any member of the Foundation, you are required to submit evidence of such to the Ethics Committee.
 
- ## Article 3 - Engaging SCPs
+## Article 3 - Engaging SCPs
  1. Personnel are not allowed to use firearms against any SCP, no matter the reason or department. 
   a. Combatives may fire upon any SCP-049-2 instances should they become hostile towards any member of the Foundation; however, this should be done out of sight of SCP-049.
   b. Combatives may fire upon SCP-662 when the circumstances allow it. Such circumstances include: committing genocide upon FP or attempting to executed any Security Class 4 or above. 

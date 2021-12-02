@@ -32,14 +32,14 @@ Members of the Foundation must act in good behavior, they must treat eachother w
  5. Installation Command is off-limits to personnel who hold Security Class 0. In addition to this, all personnel who hold a clearance lower than Security Class 3 are restricted from entering the area while raid negotiations are conducted unless they are participating in or hosting such an event. Spectators may bypass this regulations, however must be granted permission to spectate by the individual hosting such negotiations.
  6. Personnel must remain within Site Phi while protocol Uproar, Red Heron, Purple Reign, Oxygen Depletion, or Blacklist is in effect.
 
-## Access 5 - Loitering
+## Access 4 - Loitering
 No individual may loiter near any restricted area in which the individual does not have access to. This includes Site Epsilon and the Clean Room. Combatives guarding said area may issue 2 warnings to disperse, after such, termination is authorized.
 
-## Article 6 - Identification
+## Article 5 - Identification
 Members of the Foundation are to present their keycard when asked to by any of the following individuals: Security Class 4+, Ethics Committee, Security Department, Mobile Task Forcesm, Department of Internal Affairs, and any Site Alpha drones.
  a. Failure to present idenfitifcation will result in termination after 2 requests.
 
-## Article 7 - Attire Policy
+## Article 6 - Attire Policy
 Sensible clothing must be worn at all times. Foundation Investors are less restricted to these regulations, but may not wear inappropriate/obnoxious outfits and must remove items if asked to.
  1. No oversized hats or accessories.
  2. Masks that wrap around the entire face are prohibited.
@@ -53,41 +53,43 @@ Sensible clothing must be worn at all times. Foundation Investors are less restr
  10. Everything above, regarding the attire policy, is void October the 24th to the 31st if your outfit is Halloween-related.
   a. There are only a few exceptions to this. That being the "Brighteyes' Witches Brew Hat", anything resembling furries, maids, Class-D Outfits, Squid Game themed outfits, or Among Us themed outfits.
 
-## Article 8 - Following Orders
+## Article 7 - Following Orders
  1. Personnel, regardless of rank, are to follow orders given by members ranking Security Class-4 and above or from any authoritative organ of the Foundation.
   a. Authoritative organs of the Foundation include the: Ethics Committee, Department of Internal Affairs, Security Department, and Mobile Task Forces. 
   b. Unethical or morally questionable orders may be ignored and should be immediately report. The may also be overruled by a member of the Ethics Committee.
 
-## Article 9 - Interactions with SCPs
+## Article 8 - Interactions with SCPs
  1. Members of the Foundation, regardless of rank or department, are to treat each SCP with respect. Angering any SCP is not allowed and is subject to punishment.
  2. Members of the Foundation, regardless of rank, may not interact with any inanimate (non-sentient) SCP unless authorized to do so.
  3. Members of the Foundation, regardless of rank, may not interact with any storage box located within the Clean Room for any reason unless one of the following: Security Department, Mobile Task Forces.
+ 
  :::note
  For information regarding the treatment of and interaction with SCPs, you should click [here.](https://docs.google.com/document/d/1_VriOagb-E38gn2jdiDFnltxZpRV1yklfWDW0Jdw-CQ/edit?usp=sharing)
  :::
 
-## Article 10 - SCP-662 Limitations
+## Article 9 - SCP-662 Limitations
 The items listed are available to be requested from by the Mr. Deeds, should you request anything that is not specified here without authorisation you will be reprimanded.
  ### Items
   1. You are prohibited from requesting for medical items, the following are the only exceptions:
    a. Security Class 1+/Foundation Investors may request for medical tools, however only Security Class 3+ request a defibrillator.
   2. Security Class 2+ may request ammunition bags.
+
  ### Firearms
   1. Glock-17 - Security Class 2+/Foundation Investors
   2. M1911, Glock-17, Tec-9 & M9 Beretta - Security Class 3+/Foundation Investor
   3. Deagle, Glock-17 & 18, pepper spray, tasers - Security Class 4+
   5. Riot / Ballistic shield - Security Class 4+
 
-## Article 11 - Tool Usage
+## Article 10 - Tool Usage
  1. The fire extinguisher is a tool available to all personnel, it is used against the flame caused by SCP-457. You are not allowed to use it on SCP-457 without explicit permission from the Mobile Task Forces. You are not allowed to randomly spray the fire extinguisher without reason as it will be considered as immaturity.
  2. Members of the Foundation are given access to the radio to utilize during their on-site duties. Misuse of this radio can result in disciplinary actions as well as the abuser being muted from the radio.
  3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of dutie
  4. If you accidentaly pick up another keycard, tou are to respawn to ensure that the card has been disposed of. Deciding to utilise a keycard that is belonging to you or refusing to dispose of one is grounds for punishment.
 
-## Article 12 - Obstruction
+## Article 11 - Obstruction
 Personnel may not obstruct the duties of others. This includes, but is not limited to: intentionally closing & opening doors on personnel attempting to enforce regulations or carry out a departmental duty such as terminating Class-D, aiding and abetting Class D, staying within Site Omicron during protocol Uproar.
 
-## Article 13 - Evasion
+## Article 12 - Evasion
  1. Members of the Foundation may not evade or elude any law enforcement agency or combative personnel, doing so automatically constitutes a suspension lasting three days. Evasion includes, but is not limited to: leaving the game while being chased or while in cuffs, leaving the game and rejoining in attempts to evade, or leaving during an interrogation.
  2. Members of the Foundation who are sentenced a Class-E sentence may not evade the sentence by leaving the group, rejoining then applying again.
  3. Evasion of a Class E sentence can result in a longer sentence or you being blacklisted from admission.

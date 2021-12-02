@@ -4,10 +4,7 @@ title: Vehicular Policies
 ---
 
 :::info
-All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee and Military Police.
-:::
-:::note
-Those who hold the rank of Installation Director and above or are a member of the Manufacturing Department are exempt from these regulations.
+All policies mentioned are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee and Military Police. Those who hold the rank of Installation Director and above or are a member of the Manufacturing Department are exempt from these regulations.
 :::
 
 ## Article 1 - Vehicle Usage
@@ -25,7 +22,7 @@ Those who hold the rank of Installation Director and above or are a member of th
  4. Do not steal any vehicle, taking a vehicle that you did not spawn in yourself will count as theft.
     a. Accessing a vehicle to quickly move it out of the way or despawn it will not count as theft. 
 
- ## Article 3 - Road Laws
+## Article 3 - Road Laws
  1. Personnel are to follow the speed limits. The speed limit for main highways are 60mph whereas the speed limits for Site Omicron, the Site Phi checkpoint area, Site Alpha and Site Epsilon are 35mph. 
  2. The speed limits within Site Omicron and Site Epsilon may be overridden during any emergency situation.
  3. Personnel are to pull over when requested by any member of the Military Police. 
