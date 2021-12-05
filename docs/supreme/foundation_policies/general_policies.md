@@ -18,6 +18,7 @@ The Office of the Administrator retains the right to issue executive orders. Exe
 - [Executive Order #14](https://docs.google.com/document/d/1jEInnIHOpehCOe54jfbCRWV0cNprEMr4SBmQKrkRW0Y)
 - [Executive Order #16](https://docs.google.com/document/d/1b7V14h_D_1hs-PCA-9Qxxz_ADgkYr8p84_li3RlRCC8)
 - [Executive Order #17](https://docs.google.com/document/d/1RnS9JZr986GKvsZPQ2fh4fZPASDwgns1tA4p7ndbIzs)
+- [Executive Order #18](https://docs.google.com/document/d/1OMmfdcr9AKqyWZhmMvvTqdnUmU0KYmjsI6WPZmKGDiI)
 
 ## Article 2 - Accounts
  1. Any alternative accounts brought into the Foundation or Discord are to be registered with the Department of Internal Affairs. In order to register an alternative account on ROBLOX, you must run ``/registeralt UserID`` with Helix. To register an alternative account on Discord, you should contacted a member of the department.
