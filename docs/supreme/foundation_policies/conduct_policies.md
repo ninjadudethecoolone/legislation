@@ -21,7 +21,7 @@ Members of the Foundation must act in good behavior, they must treat eachother w
      - Those who hold the rank of Security Class 4 or Installation Director require a minimum of four members of the Falcon-2 Task Force in order to enter the Class-D Containment.
  2. Personnel may not cross the red line outisde of Site Epsilon unless they are spectating/hosting a test or are one of the following: Security Class 3+, Mobile Task Forces, Security Response Unit, Military Police, Combat Medics.
      - Security Class 3 personnel may not enter any containment zone unless spectating a test. They may roam the Moderate Containment Zone with a Crimson-9 escort.
-     - Security Class 4+ personnel may roam to Moderate and Heavy Containment Zones, however they may not enter any the inner-containment of any chamber without a Crimson-9 escort.
+     - Security Class 4+ personnel may roam the Moderate, Heavy, and Alpha Containment Zones, however they may not enter any the inner-containment of any chamber without a Crimson-9 or Falcon-2 escort.
      - Security Class 4+ and scientific personnel are allowed on the catwalks within SCP-682's containment, however may be asked to leave at any time and are required to do so.
  3. The Clean Room is a restricted area, and may only be accessed when hosting/spectating an event or by the following personnel: Security Class 3+, Mobile Task Forces, Military Police, Security Response Unit.
      - Personnel may not interact with any SCP stored within this area unless it is of a sentient nature.

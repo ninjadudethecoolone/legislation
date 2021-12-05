@@ -54,7 +54,6 @@ The following personnel are granted access to this area:
 Installation Command houses administrative and logistical personnel. Hostile organizations will begin their raids and negotiations will be conducted by the Department of Diplomatic Affairs in this area.
 :::info
 The following personnel are granted access to this area:
-- Security Class 0,
 - Security Class 1,
 - Security Class 2,
 - Security Class 3,
@@ -88,7 +87,6 @@ The following departments are granted access to this area:
 Site Epsilon is the containment area for most anomalies, more hazardous anomalies tend to be housed here.
 :::info
 The following are granted access to this area:
-- Security Class 0 **(S)**,
 - Security Class 1 **(S)**,
 - Security Class 2 **(S)**,
 - Security Class 3 **(E)**,
