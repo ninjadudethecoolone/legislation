@@ -47,9 +47,3 @@ The Manufacturing Department is responsible for maintaining and creating a wide 
 
 ### [Office of The Administrator](https://www.roblox.com/groups/7031581/SCPF-Office-of-The-Administrator)
 The Office of The Administrator is responsible for handling all tasks relating to The Administrator's day-to-day tasks, conferences, agendas, and other general aspects of the Foundation's administration. All other information regarding the office is classified.
-
----
-
-:::tip
-To report an individual for violation of their department's guidelines, you should run the ``/report department`` command, or for reporting those who violate the Supreme Guidelines you should run the ``/report violation`` command. This should be done within Helix's DMs.
-:::

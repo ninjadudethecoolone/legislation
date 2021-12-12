@@ -18,7 +18,7 @@ style={{
 The Foundation has multiple security classes. Each has their own meaning, requirements, abilities and responsibilities. 
 
 ## <Highlight color="#741b47">Security Class 5,</Highlight> "Thaumiel"
-This is typically granted to members of the Overwatch Command, which includes the Installation Director, O5 Council and The Administrator, it is also the highest obtainable.
+This is typically granted to members of the Overwatch Command, which includes the Installation Director, O5 Council and The Administrator, it is also the highest clearance obtainable.
 
 ## <Highlight color="#cc0000">Security Class 4,</Highlight> "Top Secret"
 Security Class 4 is granted to personnel who show dedication and have put forth a significant amount of work towards the Foundation and its operations, they are valued members of the Foundation. These individuals run their department and have a greater amount of influence over the Foundation and the way in which it operates.
@@ -53,9 +53,5 @@ The following requirements must be met in order to achieve this clearance:
 ---
 
 :::note
-Once you have met all the requirements for a rank, you should go to the [Application Center](https://www.roblox.com/games/4571894336/Application-Center) and click "CLAIM". Once meeting each requirment, you will you will be notified in-game and/or it will be displayed in Application Center.
-:::
-
-:::warning
-Please note that, to rank up, you must be linked with Helix. To do this, you must run the ``/getroles`` command in our [Discord](https://www.discord.gg/pathos) server.
+Once you have met all the requirements for a rank, you should go to the [Application Center](https://www.roblox.com/games/4571894336/Application-Center) and click "CLAIM". Once meeting each requirment, you will you will be notified in-game and/or it will be displayed in Application Center. To rank up, you must be linked with Helix. To do this, you must run the ``/getroles`` command in our [Discord](https://www.discord.gg/pathos) server.
 :::

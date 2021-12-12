@@ -8,8 +8,8 @@ The following gives the reader a rough idea on punishments issued for committing
 | Violation | Information | Punishment |
 | --------- | ----------- | ---------- |
 | Spawn Killing | When a user purposely tries to kill personnel in close proximity to their spawn location.  | 1 day. |
-| Evading SC | When a user purposefully tries to evade being Solitary Confined, whether that be leaving the game before being SCed, glitching, exploiting, or what the combative sees fit as evading. | 3 days.
-| Suspensions | When a user breaks our regulations and guidelines set in game and attempts to evade punishment. | 7 days. |
+| Evasion | When a user purposefully tries to evade being Solitary Confined, whether that be leaving the game before being SCed, glitching, exploiting, or what the combative sees fit as evading. | 3 days.
+| Suspensions | When a user breaks our regulations and guidelines set in game and attempts to evade punishment. | 6 days. |
 | Glitching | When a user purposefully abuses a broken game mechanic for their own benefit. | 3 days. |
 ---
 :::info

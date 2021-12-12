@@ -39,17 +39,17 @@ No individual may loiter near any restricted area in which the individual does n
      - Failure to present idenfitifcation will result in termination after 2 requests.
 
 ## Article 6 - Attire Policy
-Sensible clothing must be worn at all times. Foundation Investors are less restricted to these regulations, but may not wear inappropriate/obnoxious outfits and must remove items if asked to.
- 1. Oversized hats or accessories may not be worn.
- 2. Masks that wrap around the entire face are prohibited.
- 3. Outfits must be realistic.
- 4. No tails, animal-ears, capes, anything with a neon color, floating accessories, animated objects or items that extend the hitbox. 
- 5. Skin tones must be realistic, institutional white, grey and black are allowed.
- 6. Accessories that emit particles, sounds, smoke, etc are not permitted.
- 7. No outfits similar to or imitating Class D or Class E uniforms.
- 8. Attire should be respectful, preferably somewhat formal.
- 9. You may not wear anything that may cover your ID.
- 10. For the month of October, personnel may wear Halloween themed hats and through the 24th to the 31st, they may wear Halloween related outfits. In addition to this, for the month of December, personnel may wear Christmas themed hats and from the 18th through to the 25th, they may wear Christmas themed outfits. 
+ 1. Sensible clothing must be worn at all times. Foundation Investors are less restricted to these regulations, but may not wear inappropriate/obnoxious outfits and must remove items if asked to.
+     - Oversized hats or accessories may not be worn.
+     - Masks that wrap around the entire face are prohibited.
+     - Outfits must be realistic.
+     - No tails, animal-ears, capes, anything with a neon color, floating accessories, animated objects or items that extend the hitbox. 
+     - Skin tones must be realistic, institutional white, grey and black are allowed.
+     - Accessories that emit particles, sounds, smoke, etc are not permitted.
+     - No outfits similar to or imitating Class D or Class E uniforms.
+     - Attire should be respectful, preferably somewhat formal.
+     - You may not wear anything that may cover your ID.
+ 2. For the month of October, personnel may wear Halloween themed hats and through the 24th to the 31st, they may wear Halloween related outfits. In addition to this, for the month of December, personnel may wear Christmas themed hats and from the 18th through to the 25th, they may wear Christmas themed outfits. 
 
 ## Article 7 - Following Orders
  1. Personnel, regardless of rank, are to follow orders given by members ranking Security Class-4 and above or from any authoritative organ of the Foundation.
@@ -58,31 +58,29 @@ Sensible clothing must be worn at all times. Foundation Investors are less restr
 
 ## Article 8 - Interactions with SCPs
  1. Members of the Foundation, regardless of rank or department, are to treat each SCP with respect. Angering any SCP is not allowed and is subject to punishment.
- 2. Members of the Foundation, regardless of rank, may not interact with any inanimate (non-sentient) SCP unless authorized to do so.
- 3. Members of the Foundation, regardless of rank, may not interact with any storage box located within the Clean Room for any reason unless one of the following: Security Department, Mobile Task Forces.
+ 2. Personnel may not interact with any inanimate SCPs unless authorized to do so.
+ 3. Interaction with any storage box located within the Clean Room for any reason unless in the Security Department or Mobile Task Forces is strictly prohibited.
  
  :::note
- For information regarding the treatment of and interaction with SCPs, you should click [here.](https://docs.google.com/document/d/1_VriOagb-E38gn2jdiDFnltxZpRV1yklfWDW0Jdw-CQ/edit?usp=sharing)
+ For information regarding the treatment of and interaction with SCPs, you should click [here.](https://docs.google.com/document/d/1_VriOagb-E38gn2jdiDFnltxZpRV1yklfWDW0Jdw-CQ)
  :::
 
 ## Article 9 - SCP-662 Limitations
-The items listed are available to be requested from by the Mr. Deeds, should you request anything that is not specified here without authorisation you will be reprimanded.
-### Items
-  - You are prohibited from requesting for medical items, the following are the only exceptions:
-  - Security Class 1+ may request for medical tools, however only Security Class 3+ request a defibrillator.
-  - Security Class 2+ may request ammunition bags.
-
-### Firearms
-  - Glock-17 - Security Class 2+
-  - M1911, Glock-17, Tec-9 & M9 Beretta - Security Class 3+
-  - Deagle, Glock-17 & 18, pepper spray, tasers - Security Class 4+
-  - Riot/Ballistic shield - Security Class 4+
+ 1. The items listed are available to be requested from by the Mr. Deeds, should you request anything that is not specified here without authorisation you will be reprimanded.
+ 2. You are prohibited from requesting for medical items, the following are the only exceptions:
+     - Security Class 1+ may request for medical tools, however only Security Class 3+ request a defibrillator.
+     - Security Class 2+ may request ammunition bags.
+ 3. The following list states what firearms may be requested and by whom:
+     - Glock-17 - Security Class 2+
+     - M1911, Glock-17, Tec-9 & M9 Beretta - Security Class 3+
+     - Deagle, Glock-17 & 18, pepper spray, tasers - Security Class 4+
+     - Riot/Ballistic shield - Security Class 4+
 
 ## Article 10 - Tool Usage
  1. The fire extinguisher is a tool available to all personnel, it is used against the flame caused by SCP-457. You are not allowed to use it on SCP-457 without explicit permission from the Mobile Task Forces. You are not allowed to randomly spray the fire extinguisher without reason as it will be considered as immaturity.
  2. Members of the Foundation are given access to the radio to utilize during their on-site duties. Misuse of this radio can result in disciplinary actions as well as the abuser being muted from the radio.
- 3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of dutie
- 4. If you accidentaly pick up another keycard, tou are to respawn to ensure that the card has been disposed of. Deciding to utilise a keycard that is belonging to you or refusing to dispose of one is grounds for punishment.
+ 3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of duties. If you accidentaly pick up another keycard, you are to respawn in order to ensure that the card has been disposed of. Deciding to utilise a keycard that is not belonging to you or refusing to dispose of one is grounds for punishment.
+ 4. Upon redesignation of an indivudal's security clearance, they are obliged to print a replacement keycard and dispose of their orignial one.
 
 ## Article 11 - Obstruction
 1. Personnel may not obstruct the duties of others. This includes, but is not limited to: intentionally closing & opening doors on personnel attempting to enforce regulations or carry out a departmental duty such as terminating Class-D, aiding and abetting Class D, staying within Site Omicron during protocol Uproar.
