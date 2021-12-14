@@ -15,7 +15,7 @@ These evaluations were created to ensure the welfare of our sentient SCPs contai
 - Introduce yourself to the SCP and tell them to lay on the bed.
 - Give the SCP a memory phrase if it is SCP-082/049.
 - If your SCP is -131, -368, -999, or -1048, give it a task to remember.
-- Ask the SCP four (4) questions about their health.
+- Ask the SCP three (3) questions about their health.
 - Tell the SCP to stand on the weight scale.
 - Give the SCP three (3) physical tasks.
 - Finally, give the SCP a brief description of their health & any recommendations that will prevent any further health problems. 
