@@ -25,7 +25,8 @@ export const Highlight = ({children, color}) => (
 <Highlight color="#ee7a00">Board of Medicine</Highlight> - <strong>Security Class 2</strong>
 
 - Handpicked by a Specialist or above.
-- Has 4 Co-Hosts on Spreadsheet.
+- Has Graduated from the Medical Department School.
+- Hosted 2 Medical Student Orientations.
 - Member of the Medical Department on 14 days.
 
 <Highlight color="#005a1c">Physician</Highlight> - <strong>Security Class 2</strong>

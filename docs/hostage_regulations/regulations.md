@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: Regulations
 ---
 
 export const Highlight = ({children, color, text}) => (
@@ -14,8 +14,6 @@ style={{
 {children}
 </span>
 );
-
-## General Information
 
 - Hostages cannot be taken in spawn areas, unless said hostages do not spawn in the area.
 - Hostages are allowed to retaliate if they carry the means to.
@@ -35,23 +33,7 @@ style={{
 ## Clarifications
 
 - If a hostage taker breaks any of the regulations listed in this document, any combative regardless of rank or subdivision may terminate the hostage takers who are violating the regulations.
-
 - If a Class-D makes a request that you cannot abide by (as in, anything that isn't listed in the document), and if they keep requesting it even after you specify that it's not allowed, you're fully allowed to engage and terminate them.
-
 - Class-D cannot ask you to do anything immature, such as dancing, and you may terminate them if that's their request.
-
-- Combatives do not NEED to meet any Class-D demands, however it can be done if necessary.
-
+- Combatives do not need to meet any Class-D demands, however it can be done if necessary.
 - Any request that is not listed in the following table will count as an invalid request.
-
-## Acceptable Demands
-
-| Rank              | Requestable Demands | Explanation/Restrictions |
-| ----------------- | ------------------- | ------------------------ |
-| <Highlight color="#adecd0" text="#111">**Security Class 0+**</Highlight> | Food Items          | Pizza, Soda, etc         |
-| <Highlight color="#adecd0" text="#111">**Security Class 1+**</Highlight> | Food Items          | Pizza, Soda, etc         |
-| <Highlight color="#3dae72" text="#111">**1x Security Class 2+**, or **2x Security Class 1**</Highlight> | Food items, Jeep Wranglers | A maximum of 2 Jeep Wranglers may be requested. |
-| <Highlight color="#0084ff">**1x Security Class 3+**, **4x Security Class 2** or **5x Security Class 1**</Highlight> | Low-risk anomalous objects,  Non-armed humvees | Eg. SCP-330. A maximum of 1 humvee may be requested. |
-| <Highlight color="#e13238">**1x Security Class 4+**, **2x Security Class 3** or **6x Security Class 2**</Highlight> | Moderate-risk anomalous objects, Armed Humvees & Humvees. | Eg. SCP-005, SCP-034. Hostage-takers may ask combatives to say something over the radio. HOWEVER, anything that remotely tarnishes the image of a Foundation member will never be allowed. A maximum of 1 Armed Humvee may be requested. A maximum of 2 normal Humvees may be requested |
-| <Highlight color="#e13238">**1x Installation Director**, **2x Security Class 4** or **4x Security Class 3**</Highlight> | Any weapons that MTF/SD are able to obtain, Clean Room access | Admin commands cannot be used for this, so CD may simply ask for an SCP-1162 escort and receive weapons there. |
-| <Highlight color="#e13238">**O5 Council**</Highlight> | Anything can be asked, however, it’s entirely up to the discretion of O5 Councilors. | N/A |
