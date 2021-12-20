@@ -15,10 +15,10 @@ These evaluations were created to ensure the welfare of our sentient SCPs contai
 - Introduce yourself to the SCP and tell them to lay on the bed.
 - Give the SCP a memory phrase if it is SCP-082/049.
 - If your SCP is -131, -368, -999, or -1048, give it a task to remember.
-- Ask the SCP four (4) questions about their health.
+- Ask the SCP three (3) questions about their health.
 - Tell the SCP to stand on the weight scale.
 - Give the SCP three (3) physical tasks.
 - Finally, give the SCP a brief description of their health & any recommendations that will prevent any further health problems. 
-- <strong>Miscellaneous</strong>: Physician+ are able to do check ups on Pan Stan and The Troll. You may not ping Anomaly Actors to get on for these. You are only to ask the subject when they are on site to do a checkup. Follow all listed procedures above.
+- <strong>Miscellaneous</strong>: Physician+ are able to do check ups on Pan Stan, Frosty, and The Troll. You may not ping Anomaly Actors to get on for these. You are only to ask the subject when they are on site to do a checkup. Follow all listed procedures above.
 
 [Standard SCP Checkup Format](https://docs.google.com/document/d/1qctpSF4QhrelDd8NK2P4OKarfRQ7f0hjMaaNjDBZ9-M/edit?usp=sharing)
