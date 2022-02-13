@@ -35,3 +35,9 @@ You should prioritise going to a training held by the Logistics Department's Med
 
 If you do not do this, you could easily face removal from your Entrant phase due to not getting a certification in time.
 :::
+
+:::caution
+- If you do not get promoted within **two weeks**, you could be exiled from the Logistics Department!
+
+Please contact a Senior Logistics Officer+ if you need to have your time extended.
+:::
